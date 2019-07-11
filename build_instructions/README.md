@@ -1,4 +1,4 @@
 Build Instructions
 ==================
 
-- [Configure Raspberry Pi](./CONFIGURE_PI.md)
+- [Configure Raspberry Pi](../CONFIGURE_PI.md)
