@@ -2,7 +2,7 @@ Build Instructions
 ==
 
 - [Disassemble Body](???.md)
-- [Motor Mounts](INSTALL_MOTOR_MOUNTS.md)
+- [Motor Mounts](MOTOR_MOUNTS.md)
   - TODO: The current alignment tool only works before the landing gear are added.
 - [Landing Gear](???.md)
 - [ESCs](???.md)
@@ -20,6 +20,6 @@ Build Instructions
 - [](???.md)
 - [](???.md)
 
-- [Install Top Platform](INSTALL_PLATFORM.md)
+- [Install Top Platform](PLATFORM.md)
 
 - [Configure Raspberry Pi](CONFIGURE_Pi.md)
