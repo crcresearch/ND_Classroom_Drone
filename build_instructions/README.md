@@ -1,13 +1,13 @@
 Build Instructions
 ==
 
-- [Print Parts](instructions/??.md)
+- [Print Parts](instructions/print_parts.md)
 - [Disassemble Body](instructions/disassemble_body.md)
-- [Landing Gear](instructions/???.md)
-- [Battery Tray](instructions/??.md)
-- [Telemetry Radio Tray](instructions/??.md)
+- [Landing Gear](instructions/landing_gear.md)
 - [ESCs](instructions/???.md)
-- [Power Distribution Board](instructions/???.md)
+- [Power Distribution Board](instructions/power_dist_board.md)
+- [Battery Tray](instructions/battery_tray.md)
+- [Telemetry Radio Tray](instructions/??.md)
 - [BEC](instructions/??.md)
 - [LED Wires](instructions/??.md)
 - [Reassemble Body](instructions/???.md)
