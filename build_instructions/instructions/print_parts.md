@@ -5,7 +5,7 @@ Tools
 --
 
 The following tools are used in assembly of a drone. They can be reused for subsequent drone builds.
-- (4) [Motor Mount Alignment Tools](../../3d_models/motor_mount_alignment_tool/motor_alignment_tool.stl)
+- (4) [Motor Mount Alignment Tools](../../3d_models/motor_mount_alignment_tool/daya_680_motor_alignment_tool.stl)
 
 Parts
 --
