@@ -68,7 +68,7 @@ Secure PDB to Body
   - The battery connector will exit the rear of the body.
   - Ensure that the PDB is positioned such that both sides of the drone body can be reinstalled later.\
   ![PDB Left Side](../images/pdb_left_side.jpg)\
-  ![PDB right  Side](../images/pdb_right_side.jpg)
+  ![PDB Right Side](../images/pdb_right_side.jpg)
 
 
 PDB / PX4 Cables
