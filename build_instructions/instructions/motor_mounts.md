@@ -6,7 +6,7 @@ Required Parts
 
 - (4) Motor Mount Platforms
 - (8) Motor Mount Brackets
-- Motor Mount Alignment Tool
+- [Motor Mount Alignment Tool](../../3d_models/motor_mount_alignment_tool/daya_680_motor_mount_tool.stl)
 
 
 Assemble Mounts
@@ -28,7 +28,7 @@ Install Mounts Onto Frame
 
 1. Slide a Motor Mount onto a tube of the frame.\
   ![Motor Mount on Frame](../images/motor_mount_on_frame.jpg)
-1. Use an alignment tool located [here](../../3d_models/motor_mount_alignment_tool) to ensure that the Motor Mount is installed level.
+1. Use an alignment tool located [here](../../3d_models/motor_mount_alignment_tool/daya_680_motor_mount_tool.stl) to ensure that the Motor Mount is installed level.
   - Lay the frame on a flat surface.
   - Slide the Motor Mount Brackets into the slots of the alignment tool.\
   ![Motor Mount on Tool](../images/motor_mount_on_tool.jpg)
