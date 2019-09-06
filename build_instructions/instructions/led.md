@@ -25,7 +25,7 @@ LED Strips
 
 1. Each strip of LEDs contains 4 separate sections. We will be using 2 sections, so snap one strip in half and save the other half for another drone.\
   ![LED - Full Strip](../images/led_full_strip.jpg)
-  ![LED - Half Strip](../images/led_half_strip.jpg)
+  ![LED - Half Strip](../images/led_half_Strip.jpg)
 1. Solder a piece of red wire to the "+" pad of the center of the LED strip, and a piece of black wire to the "-" pad.\
   ![LED - Center Wires](../images/led_center_wires.jpg)
 1. Cut the red and black wires so that they are just long enough to reach the outer pad of the other LED bank.\

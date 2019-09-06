@@ -45,4 +45,4 @@ Install Motor Arms
 
 1. Install motor arm seats using the 2 screws and washers removed earlier.\
 ![Motor Arm Seat](../images/motor_arm_seat.jpg)
-1. Insert the motor arms and secure with the pivot screws removed earlier.\
+1. Insert the motor arms and secure with the pivot screws removed earlier.
