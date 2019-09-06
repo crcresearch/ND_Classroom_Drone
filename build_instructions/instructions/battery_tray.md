@@ -4,7 +4,7 @@ Battery Tray
 Parts
 --
 
-1. Gather the necessary parts. Four (4) printed [spacers](./../3d_models/battery_mount_washer/battery_mount_washer.slt) are required.\
+1. Gather the necessary parts. Four (4) printed [spacers](./../3d_models/battery_mount_washer/battery_mount_washer.stl) are required.\
 ![Battery Tray Parts](../images/battery_tray_parts.jpg)
 
 Assembly
