@@ -16,7 +16,7 @@ Mount PX4
 1. Insert SD card into the back of the PX4 until it clicks into place.
   - The pins of the card will face upwards as shown below.
   - The card is spring loaded, so press inward to remove the old one if necessary.\
-  ![PX4 - SD Card](../images/px4_sd_Card.jpg)
+  ![PX4 - SD Card](../images/px4_sd_card.jpg)
 1. Apply foam mounting pads to back of PX4 as shown below. The placement of the pads should help to maximize the amount of pad that will be in contact with the drone body.\
   ![PX4 - Mounting Pads](../images/px4_mounting_pads.jpg)
 1. Secure the PX4 to the top of the drone body.
