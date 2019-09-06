@@ -4,7 +4,7 @@ Install Top Platform
 Required Parts
 --
 
-- (1) [Printed Platform](../3d_models/top_mounting_plate/top_mounting_plate.stl)
+- (1) [Printed Platform](../../3d_models/top_mounting_plate/top_mounting_plate.stl)
 - (1) Raspberry Pi
 - (4) Nylon Screws for Raspberry Pi
 - (1) Receiver
@@ -30,7 +30,7 @@ Receiver
 --
 
 1. Attach the receiver to the narrow end of the platform using double-sided tape as show below.
-  - Ensure that the receiver cable does not interfere with the [printed cover](../3d_models/top_mounting_plate/top_mounting_plate_lid.stl) that will be added later.\
+  - Ensure that the receiver cable does not interfere with the [printed cover](../../3d_models/top_mounting_plate/top_mounting_plate_lid.stl) that will be added later.\
   ![Receiver](../images/receiver_mounted.jpg)
 1. Route the receiver antennas through the guides so that they exit the rear of the platform.\
 ![Receiver](../images/receiver_antennas.jpg)
