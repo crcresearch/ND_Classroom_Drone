@@ -1,6 +1,8 @@
 Propellers
 ==
 
+**Important:** Once the props have been mounted be very careful before powering the drone.  Ensure no hardware or people are in any danger of being hit by a spinning prop before powering the system.  It is strongly advised that you have already configured the autopilot and checked the mootor spin directions and throttle levels prior to this step.
+
 Required Parts
 --
 
@@ -26,13 +28,13 @@ Mount Propellers
     - CCW
   - Front, Left
     - CW
-1. Each propeller will be installed using one (1) mounting plate and two (2) screws.\
+2. Each propeller will be installed using one (1) mounting plate and two (2) screws.\
   ![Propeller Parts](../images/prop_parts.jpg)
-1. Place the appropriate propeller over the shaft of the motor.\
+3. Place the appropriate propeller over the shaft of the motor.\
   ![Propellere](../images/prop_on_shaft.jpg)
-1. Place the mounting plate over the shaft and align screw holes with the holes in the propeller.\
+4. Place the mounting plate over the shaft and align screw holes with the holes in the propeller.\
   ![Propeller Plate](../images/prop_plate.jpg)
-1. Insert mounting screws through the mounting plate and propeller.\
+5. Insert mounting screws through the mounting plate and propeller.\
   ![Propeller Screws](../images/prop_screws.jpg)
-1. Secure the mounting screws into the threaded holes of the motor using a 2mm hex wrench.\
+6. Secure the mounting screws into the threaded holes of the motor using a 2mm hex wrench.\
   ![Propeller Installed](../images/prop_secured.jpg)
