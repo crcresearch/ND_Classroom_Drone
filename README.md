@@ -1,4 +1,4 @@
-# ND_Classroom_Drone
+# ND Classroom Drone
 This repo contains core information regarding the design and construction of a quadrocopter intended for use in undergradtuate teaching environments.  As such it represents an associated balance between cost, performance, ease of assembly, and configurablity for student design exercises.
 
 ![](./build_instructions/images/main.jpg)
