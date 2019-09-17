@@ -1,6 +1,8 @@
 Battery Elimination Circuit
 ==
 
+The BEC supplies 5V at 3A to the Raspberry Pi from the primary batteries
+
 Required Parts
 --
 

@@ -1,6 +1,8 @@
 Body Disassembly
 ==
 
+In order to attach the power chain and all electronics the frame must first be disassembled as folllows.
+
 Motor Arms
 --
 
